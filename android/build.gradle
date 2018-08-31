@@ -23,3 +23,11 @@ allprojects {
         }
     }
 }
+
+ext {
+    compileSdkVersion   = 24
+    targetSdkVersion    = 24
+    buildToolsVersion   = "24.0.0"
+    supportLibVersion   = "24.0.0"
+    googlePlayServicesVersion = "11.0.0"
+}

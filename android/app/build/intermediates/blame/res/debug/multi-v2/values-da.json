@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\alberto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.2.4.aar\\023e83708703cc6b774f89f63686f9fc\\res\\values-da\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "285",
-                        "endColumns": "185",
-                        "endOffsets": "470"
-                    },
-                    "to": {
-                        "startLines": "28",
-                        "startColumns": "4",
-                        "startOffsets": "3025",
-                        "endColumns": "185",
-                        "endOffsets": "3206"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\alberto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.4.aar\\973a7b0a59ddd3d311b3d1b6bc1643c5\\res\\values-da\\values.xml",
+                    "source": "C:\\Users\\alberto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\78f358eaae1214f25aa0caf3dd0ec684\\res\\values-da\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,6 +35,23 @@
                         "startOffsets": "2022,2130,2322,2451,2562,2764,2891,3211,3426,3534,3727,3856,4060,4268,4364,4456",
                         "endColumns": "107,191,128,110,201,126,133,214,107,192,128,203,207,95,91,106",
                         "endOffsets": "2125,2317,2446,2557,2759,2886,3020,3421,3529,3722,3851,4055,4263,4359,4451,4558"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alberto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.0.aar\\d5c934a7f47018dd620935e6c28b6c46\\res\\values-da\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "185",
+                        "endOffsets": "470"
+                    },
+                    "to": {
+                        "startLines": "28",
+                        "startColumns": "4",
+                        "startOffsets": "3025",
+                        "endColumns": "185",
+                        "endOffsets": "3206"
                     }
                 }
             ]
